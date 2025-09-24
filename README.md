@@ -41,7 +41,7 @@ I’m a computer science student who treats code like a conversation—structure
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=TessaTomy&theme=nightowl&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TessaTomy&theme=nightowl&hide_border=true" height="150" alt="GitHub Streak" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TessaTomy&layout=compact&theme=nightowl&hide_border=true" height="150" alt="Top Languages" />
